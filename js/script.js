@@ -11,8 +11,8 @@ window.addEventListener('load', function(){
 // iTyped 
 
 window.ityped.init(document.querySelector('.iTyped'), {
-    strings: ["I'm a Web Developer", 'I Love Html5', 'I Love CSS3', 'I Love Jquery', 'I Love Laravel'],
-    loop: true
+    strings: ["I’m a designer with a focus on crafting user-friendly and minimal designs based on gathered data and I like to create a positive and enjoyable work environment."],
+    loop: false
 });
 
 // Portfolio Item Filter
